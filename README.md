@@ -50,6 +50,11 @@ This project takes into consideration a number of factors such as Speciality of 
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/a32cf47b-3a7a-4a84-96b3-1f7548ba7d13)
 
+## Web Page
+
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/5ab0e05b-59e8-457a-863d-c9afa00d0322)
+
+
 ## **--Insights--**
 
 
