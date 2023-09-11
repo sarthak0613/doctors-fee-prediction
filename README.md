@@ -58,25 +58,51 @@ This project takes into consideration a number of factors such as Speciality of 
 ## **--Insights--**
 
 
+- ###  Number of Doctors by each City
+
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/515385f5-54bc-43a7-9a9c-a9b05c95ba1b)
 
+- ### Percentage Distribution of doctors in each city
+
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/1dfba316-5b20-4eec-b745-3007e49fbd1a)
+
+- ###  Number of Doctors in different specialities
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/8253459f-fd16-444e-a70d-c2325d248772)
 
+- ###  KDE plot showing that majority of doctors are in the range of experience between 13 to 15 years.
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/3110fa97-1046-40db-a33d-11d8b8a617b9)
 
+- ###  Count of top degrees among the doctors
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/3bfa75e1-9d31-4927-834a-b2fee51d8b07)
 
+- ###  Speciality wise fees of doctors
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/dfa4b1e1-096b-4211-a434-95ef3978eefc)
 
+## **--Some key Insights--**
 
+- Most of the doctors have 13 to 15 years of experience.
 
+- Cities like Bangalore have a higher percentage of doctors, accounting for approximately 40.23%.
 
+- The majority of doctors specialize in Dentistry (1460), while the fewest doctors specialize in Chiropractic (7).
 
+- Bangalore has the highest number of doctors compared to Delhi and Mumbai.
 
+- In each city, the number of dentists is higher than other specialties because their consultation fees are completely free.
 
+- Neurosurgeons and Ophthalmologists charge high consultation fees, while specialties like Dentistry, Dermatology, Gynecology/Obstetrics, Infertility Specialists, Physiotherapy, and Dietetics/Nutritionists offer almost free consultations.
 
+## **--Future scope--**
 
+- This fee predictor can help upcoming doctors who are looking to set up their clinic to have an idea of how much other doctors are charging.
+- Patients can have an idea of how much they are likely to be charged based on the factors that are mentioned in the model.
+- A doctor looking to expand his/her clinic to other cities can also have an idea how much doctors are charging in that particulr city of an area of the city.
+
+## **--Problems faced--**
+
+- Faced problems while deploying the model onto the webpage, tackled it by referring to the free resources and tutorials available on YouTube.
+- Having little knowledge about HTML and CSS, it was difficult to make a webpage, but took reference from YouTube and ChatGPT.
