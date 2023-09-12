@@ -30,6 +30,20 @@ This project takes into consideration a number of factors such as Speciality of 
 5. PPT- We have created an aesthetic presentation for the viewers to have a brief idea on the objective of this model, flow of our project, major insights, etc. PPT file is included in this folder.
 
 
+## Machine learning model-
+In this project, we use a linear regression model to predict doctor's fees. Linear regression is a simple yet effective technique for modeling relationships between a dependent variable (doctor's fee ) and one or more independent variables (features).
+
+### Variables-
+- speciality_of_doctor: Specialty of the doctor
+- degree_type: Type of degree (e.g., MBBS, MD, BDS)
+- year_of_experience: Total years of experience
+- Location: Clinic location
+- city: City of the clinic
+- dp_score: Doctor-patient experience score
+- npv_: Number of people's votes
+
+
+
 ## Web Scraping-
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/d96f2515-adff-48e3-84a5-e6be490fa116)
