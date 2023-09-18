@@ -66,7 +66,8 @@ In this project, we use a linear regression model to predict doctor's fees. Line
 
 ## Web Page
 
-![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/5ab0e05b-59e8-457a-863d-c9afa00d0322)
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/c8d2ed7d-be90-48bc-b210-eb7b74754fa6)
+
 
 
 ## **--Insights--**
