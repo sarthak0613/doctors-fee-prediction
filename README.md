@@ -46,26 +46,52 @@ In this project, we use a linear regression model to predict doctor's fees. Line
 
 ## Web Scraping-
 
-![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/d96f2515-adff-48e3-84a5-e6be490fa116)
+### Some code snippets-
 
 
-![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/af8dbac2-46a1-406b-9585-2cb28fd3c788)
+- The code below scrapes data of chiropractors from Practo in cities like Bangalore, Delhi, and Mumbai, by automating web browsing with Selenium and Chrome WebDriver.
+- Then it stores the extracted information in an empty DataFrame.
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/95f82406-0df7-4885-ae19-22301765c0aa)
 
+
+- This code snippet collects detailed information about chiropractors from Practo by parsing the web page's HTML using BeautifulSoup. 
+- It iterates through the listings, extracts data such as the doctor's name, degree, years of experience, location, DP score, NPV, and consultation fee, and then appends this information to the previously created DataFrame for each chiropractor found in the specified cities.
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/bd1dbd99-e9dc-4ad5-8119-0b0a537b9660)
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/08a8449a-2f7f-42b3-9610-8dae5087f6d4)
+
+- The data scraped will get appended in the dataframe as shown below.
+
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/1373a028-512c-4188-871e-40033a592534)
+
+- The above code snippet extracts data for just one specialization of doctor(Chiropractor), similarly we just replaced the url with respect to different specializations.
 
 ## CSV File
+
+- The image below shows the csv file that was created by appending all the scrapped data into different dataframes.
+- All csv files were concatenated into a single csv which is also uploaded in the folder in this repository.
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/b7bf92b4-f240-47f7-a596-2cae75d5427c)
 
 ## HTML File
 
-![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/9a650a0e-edd8-4607-9158-9ae8a67c9812)
+- This HTML code snippet represents a basic webpage for "Doctor Fees Prediction."
+- It includes jQuery and jQuery UI libraries, sets up some basic styling, and defines the structure of the webpage.
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/c3efaacc-35a1-4af6-b259-c0b358c3fb90)
+
+- This HTML code snippet represents a form for "Doctor Fees Prediction." It includes various input fields and a submit button within a <form> element.
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/6bf67f52-8b2f-415e-8f35-f0090d73de91)
+
 
 ## Flask File
 
-![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/a32cf47b-3a7a-4a84-96b3-1f7548ba7d13)
+- This Python Flask code sets up a web app for predicting doctor fees using a pre-trained machine learning model.
+- Users input data via a form, which is processed to provide a fee prediction displayed on the webpage.
+- You can find the entire code in the file named app.py in this repository
+![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/98f3df17-76ff-41c4-a5b3-f3377d12cf4f)
+
 
 ## Web Page
-
+- This screenshot below provides a visual representation of the web page created for predicting doctor fees using a Flask-based web application.
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/c8d2ed7d-be90-48bc-b210-eb7b74754fa6)
 
 
