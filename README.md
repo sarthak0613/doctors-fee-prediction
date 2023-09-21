@@ -77,25 +77,34 @@ In this project, we use a linear regression model to predict doctor's fees. Line
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/515385f5-54bc-43a7-9a9c-a9b05c95ba1b)
 
-- ### Percentage Distribution of doctors in each city
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/1dfba316-5b20-4eec-b745-3007e49fbd1a)
+
+Highest number of doctors are from Bangalore(2169) whereas Mumbai has 1458 doctors listed in the website.
 
 - ###  Number of Doctors in different specialities
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/8253459f-fd16-444e-a70d-c2325d248772)
 
-- ###  KDE plot showing that majority of doctors are in the range of experience between 13 to 15 years.
+The majority of doctors specialize in Dentistry(1460), while the fewest doctors are Chiropractors (7).
+
+- ###  KDE plot
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/3110fa97-1046-40db-a33d-11d8b8a617b9)
+
+The plot above is showing that majority of doctors are in the range of experience between 13 to 15 years.
 
 - ###  Count of top degrees among the doctors
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/3bfa75e1-9d31-4927-834a-b2fee51d8b07)
 
+BDS(Bachelor of Dental Surgery) is the most common degree among the doctors, which is clearly explainableas the highest no. of doctors are Dentists.
+
 - ###  Speciality wise fees of doctors
 
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/dfa4b1e1-096b-4211-a434-95ef3978eefc)
+
+Neurosurgeons and Ophthalmologists charge high consultation fees, while specialties like Dentistry, Dermatology, Gynecology/Obstetrics, Infertility Specialists, Physiotherapy, and Dietetics/Nutritionists offer almost free consultations.
 
 ## **--Some key Insights--**
 
