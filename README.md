@@ -92,6 +92,7 @@ In this project, we use a linear regression model to predict doctor's fees. Line
 
 ## Web Page
 - This screenshot below provides a visual representation of the web page created for predicting doctor fees using a Flask-based web application.
+  
 ![image](https://github.com/sarthak0613/doctors-fee-prediction/assets/135547703/c8d2ed7d-be90-48bc-b210-eb7b74754fa6)
 
 
